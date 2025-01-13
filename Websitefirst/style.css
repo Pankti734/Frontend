@@ -1,0 +1,213 @@
+ul li:hover{
+  text-decoration: underline yellow;
+}
+
+.head1{
+  text-align: center;
+  justify-content: center;
+}
+
+.carousalpan{
+  height: 500px;
+}
+
+#one{
+  height: 500px;
+}
+
+#two{
+  height:715px;
+}
+.changbtn{
+  color:white;
+  background-color: aliceblue;
+}
+
+.btn1{
+  background-color: yellow;
+}
+
+/* div h1,p{
+  position: relative;
+  top:30px;
+} */
+
+.icons{
+  font-size: 80px;
+  border: 1px solid black;
+  width: auto;
+  padding: 10px;
+  width:100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #b5b1b3;
+}
+
+
+
+.aboutbtn{
+  background-color: orange;
+  border:none;
+}
+
+.aboutus{
+  /* background-image: url('images/bgimage.jpg'); */
+  background-size: cover;
+  /* color: white; */
+}
+
+.fa-star{
+color: red;
+background-color: yellow;
+position: relative;
+bottom:31px;
+
+}
+
+.firstsec{
+  background-color:lightgray;
+  height:250px;
+}
+
+.port{
+  padding-top: 5px;
+  background-image: url('images/dark.jpg');
+  padding-bottom: 60px;
+}
+
+.creative{
+  height: 150px;
+}
+
+.procimg{
+  height:50px;
+  width: 50px;
+}
+
+.symproc{
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+ gap: 20px;
+ height: 75px;
+ width: 75px;
+ border: 1px solid black;
+ border-radius: 50%;
+}
+
+.fa-user{
+  font-size: 100px;;
+}
+
+.newpro{
+  background-image: url('images/green.jpeg');
+}
+
+.loctext{
+  font-weight: 200px;
+}
+
+.mapimg{
+  width: 100vw;
+  height: 300px;
+}
+
+.listone{
+  list-style-type: none;
+}
+
+
+.new-banner .carousel-caption {
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: auto;
+  color: #fff;
+  align-content: center;
+  width: 100%;
+}
+
+/* .paraone{
+  position: relative;
+  left: 30px;
+} */
+
+.footone{
+  position: relative;
+  bottom: 0px;
+  background-image: url('images/green.jpeg');
+}
+
+.inptext{
+  width: 180px;
+}
+
+/* .symb1{
+  height: 18px;
+  width:18px;
+  border: 1px solid black;
+  border-radius: 50%;
+  padding-left: 3px;
+} */
+
+.symbone{
+  height: 100px;
+  width:100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  font-size: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.peopleus{
+  background-color: #b0bfbf;
+}
+
+.firstnumber{
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+  border: 1px solid black;
+display: flex;
+flex-direction: column;
+align-items: center;
+  font-size: 50px;
+}
+
+.first{
+  font-size:50px;
+  position: relative;
+  left:32px;
+}
+
+.onem{
+  position: relative;
+  bottom: 44px;
+  font-size: 60px;
+  left: 32px;
+
+}
+
+.sec1{
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.mobone{
+  position: relative;
+  bottom:35px; ;
+}
+.num1{
+  position: relative;
+bottom: 26px;;
+}
+
+.imagone{
+  height: 186px;
+}
